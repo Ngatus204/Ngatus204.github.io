@@ -1,1 +1,16 @@
-# API-Project-442204
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/api_project_stylesheet.css">
+    <script src="javascript/ApiProject.js" defer></script>
+</head>
+<body>
+</body>
+<footer>
+    <button id="info" onclick="GetInfo()">About the Institute</button>
+</footer>
+</html>
